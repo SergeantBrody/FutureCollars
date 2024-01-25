@@ -2,5 +2,7 @@ Skladniki:
 200g kapusta
 100g marchewka
 50g majonez
+<<<<<<< HEAD
 100g ketchupu
 20g  chrzanu
+
